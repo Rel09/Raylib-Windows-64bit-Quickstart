@@ -8,3 +8,5 @@ star this repo
 
 done
 ```
+
+feel free to send a pull request if you want to make it cross platform
